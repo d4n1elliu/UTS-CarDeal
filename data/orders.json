@@ -1,0 +1,21 @@
+{
+  "orders": [
+    {
+      "customer": {
+        "name": "daniel liu",
+        "phoneNumber": "+1234567890",
+        "email": "daniel.liu8670@.com",
+        "driversLicenseNumber": "67814198"
+      },
+      "car": {
+        "vin": "1HGBH41JXMN109186"
+      },
+      "rental": {
+        "startDate": "2025-04-01",
+        "rentalPeriod": 7,
+        "totalPrice": 350,
+        "orderDate": "2025-03-28"
+      }
+    }
+  ]
+}
