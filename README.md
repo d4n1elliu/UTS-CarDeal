@@ -23,7 +23,7 @@ Setup Instructions
 1. Download and install XAMPP.
 2. Copy the project folder into the htdocs directory (e.g., C:/xampp/htdocs/Car-Rental-Website).
 3. Start Apache and MySQL from the XAMPP Control Panel.
-4. Open phpMyAdmin at localhost/phpmyadmin.
+4. Open phpMyAdmin at http://localhost/phpmyadmin.
 5. Create a new database (e.g., car_rental) and import the carDatabase.sql file.
 6. Open a browser and navigate to http://localhost/Car-Rental-Website.
 
