@@ -1,4 +1,4 @@
-# Car-Rental-Website
+# 🚗 UTS CarDeal 🚗 (Car Rental Website)
 
 A dynamic and interactive car rental website which allows users to browse available vehicles, make reservations, manage booking history, and simulate a full rental experience.
 
